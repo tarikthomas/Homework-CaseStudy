@@ -1,7 +1,7 @@
-# Homework-CaseStudy
+# Homework-CaseStudy-AfterPay
 This is where my Case Study is 
 
-**Afterpay Case Study - Tarik Thomas**
+***Afterpay Case Study - Tarik Thomas***
 
 **Overview and Origin**
 
