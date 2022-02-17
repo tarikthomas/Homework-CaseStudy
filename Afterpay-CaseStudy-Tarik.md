@@ -1,6 +1,3 @@
-# Homework-CaseStudy
-This is where my Case Study is 
-
 **Afterpay Case Study - Tarik Thomas**
 
 **Overview and Origin**
